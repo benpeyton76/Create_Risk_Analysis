@@ -1,4 +1,4 @@
-# Create Risk Analysis
+# ***Create Risk Analysis***
 
 
 ## ***Overview:***
@@ -38,7 +38,7 @@ In this module, Supervised Machine Learning techniques are used to train and eva
 
   The overall predicted score is 99% while the recall score is 69%.
   
-- ***Undersampling using ClusterCentroids***
+- ***Undersampling using ClusterCentroids:***
 
   By using the ClusterCentroids algorithm, we are able to calculate the balanced accuracy score which is 66%. Then use confusion matrix to determine the number     of actual and predicited high and low number of applicants.
   <img width="1037" alt="Mod17g" src="https://user-images.githubusercontent.com/87077325/149371490-adf0c6c8-7022-44bb-9e04-1117ed13f5a6.png">
